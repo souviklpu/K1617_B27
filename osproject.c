@@ -170,6 +170,7 @@ int main()
 		}
 	}
 	while(total>0)
+    //some problems occurring in this point
 	{
 		RoundRobin(roundqueue,rr);
 		Priority(priorqueue,pr);
