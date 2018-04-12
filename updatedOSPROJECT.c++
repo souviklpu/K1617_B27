@@ -137,7 +137,7 @@ main(){
     }
 
 
-    //While RR on multiple queues is not complete, keep on repeating
+    ///While RR on multiple queues is not complete, keep on repeating
     int timer = 0;
     int l =-1;
     int rr_timer = 4;
@@ -300,4 +300,4 @@ main(){
     cout<<"\n The average turnaround time is : "<<sum_tt/no_of_processes<<endl;
     cout<<"\n The average waiting time is : "<<sum_wt/no_of_processes<<endl;
 
-}
+
