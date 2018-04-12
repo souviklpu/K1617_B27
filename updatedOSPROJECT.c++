@@ -300,4 +300,4 @@ main(){
     cout<<"\n The average turnaround time is : "<<sum_tt/no_of_processes<<endl;
     cout<<"\n The average waiting time is : "<<sum_wt/no_of_processes<<endl;
 
-
+}
